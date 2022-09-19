@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl"/>
+ <meta charset="utf-8"/>
+<head>
+
+  <meta name="description" content="Huiswerk opdracht 2">
+  <meta name="keywords" content="Hoi, DIt is het huiswerk voor week 2.">
+  <meta name="author" content="Thijs Zoontjes">
+ <title>Student Inc.!</title>
+ 
+</head>
+
+<body>
+
+<p> 
+Welkom bij Student Inc! Ons bedrijf is in 2022 opgericht in regio Haarlem. Wij hebben als focus om websites voor de klant te maken. Dit doen we met onze ervaren collega's. De prijzen zijn tussen de 200 en 1000 &euro;.
+</p>
+
+<p> Door deze redenen ben ik werkzaam bij Student Inc</p>
+<ol>
+  <li>Werken in teamverband.</li>
+  <li> Werken aan Front-End</li>
+  <li>Goed salaris.</li>
+
+</ol>
+
+<img
+src="https://cw-gbl-gws-prod.azureedge.net/-/media/cw/emea/netherlands/news/empty-office-modern-clean.png?rev=aa44b01e6a4646e1a7f747819e09d38d" 
+alt="clean office with imacs"
+title="cool office"
+ />
+
+© Student Inc. 
+</body>
+
+</html>
